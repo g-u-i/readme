@@ -1,4 +1,4 @@
 readme
 ======
 
-Le readme de g-u-i
+Le readme de g.u.i.
